@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HeadFirstModelAndDesign.iml" filepath="$PROJECT_DIR$/.idea/HeadFirstModelAndDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer-pattern/observer-pattern.iml" filepath="$PROJECT_DIR$/observer-pattern/observer-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" filepath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" />
     </modules>
   </component>
 </project>
